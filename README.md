@@ -15,9 +15,9 @@ An AI-powered story generation and evaluation system built on the **Actor–2 Cr
 
 | Service | URL |
 |---------|-----|
-| Frontend (Vercel) | _link will be added after deployment_ |
-| Backend API (Render) | _link will be added after deployment_ |
-| API Docs (Swagger) | _`<render-url>/docs`_ |
+| Frontend (Vercel) | https://frontend-beryl-one-21.vercel.app |
+| Backend API (Render) | _deploy via Render dashboard — see below_ |
+| API Docs (Swagger) | `<render-url>/docs` |
 
 ---
 
