@@ -5,3 +5,4 @@ tqdm>=4.66.3
 requests>=2.31.0
 numpy>=1.26.4
 pandas>=2.2.2
+uvicorn>=0.34.0
