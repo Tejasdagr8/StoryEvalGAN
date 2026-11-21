@@ -7,7 +7,9 @@ An AI-powered story generation and evaluation system built on the **Actor–2 Cr
 - **Critic 2** — Evaluates creativity, originality, and emotional depth  
 - **Final Score** — Weighted aggregate (Language 60% + Creativity 40%)
 
-> Built by **Tejas Melkote**
+> Built by **Tejas Melkote** · [Portfolio](https://tejas-melkote.vercel.app/) · 2026 new grad
+
+Demo frontends/backends may go cold or rotate URLs — treat the architecture and code as the source of truth; redeploy with the steps below if a link 404s.
 
 ---
 
@@ -16,7 +18,7 @@ An AI-powered story generation and evaluation system built on the **Actor–2 Cr
 | Service | URL |
 |---------|-----|
 | Frontend (Vercel) | https://frontend-beryl-one-21.vercel.app |
-| Backend API (Render) | _deploy via Render dashboard — see below_ |
+| Backend API (Render) | Deploy via Render dashboard — see below (URL may change) |
 | API Docs (Swagger) | `<render-url>/docs` |
 
 ---
